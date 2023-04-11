@@ -1,3 +1,3 @@
 # Stock_Analysis
 
-This repository will act as a hub for most of the programs I coded and/or studied with regards to the field of Python and Data Science applied to finance and economics.
+A repository that acts as a hub for some of my codes/programs/etc regarding to the field of Python and Data Science applied to finance and economics.
